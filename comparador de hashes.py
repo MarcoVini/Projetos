@@ -1,4 +1,4 @@
-#Código feito para comparar se dois códigos são iguais ou diferentes.
+#Código feito para comparar se hashes códigos são iguais ou diferentes.
 import hashlib
 
 arq1= 'cp.txt'
