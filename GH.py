@@ -1,3 +1,4 @@
+#Esse código tem como o intuito ser o gerador de Hashs.
 import hashlib
 
 while True:
